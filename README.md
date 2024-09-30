@@ -40,3 +40,10 @@ A sample eCommerceWebsite for the Udemy 100 days of code using python.
     - Ensure proper database schema design to support the above functionalities.
 
 These high-level requirements will guide the development of the eCommerce website, ensuring it has all the necessary features and functionalities.
+
+To run the code download the repository and run the app.py python code. The first time that it runs it will create the ecommerce.db database.
+Only an admin level user has access to the /admin/product/add /admin/products pages
+
+If you want to add some sample products run the populate_db.py
+If you want to update the user so that they are admin update the set_admin.py script and run it.
+
